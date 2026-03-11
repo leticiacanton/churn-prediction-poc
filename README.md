@@ -7,7 +7,7 @@ Este repositório contém uma solução completa de Machine Learning para predi�
 2. **Notebook Técnico:** O arquivo `notebooks/churn_prediction_poc.ipynb` contém todo o pipeline de dados, desde o saneamento até a escolha do modelo Random Forest.
 3. **Execução Direta:** Clique no botão "Open in Colab" no topo do notebook para executar o código em nuvem.
 
-### Instruções de Execução
+## Instruções de Execução
 Para reproduzir a análise:
 1. Clone este repositório.
 2. Certifique-se de que o dataset `Customer-Churn.csv` está localizado na pasta `/data`.
